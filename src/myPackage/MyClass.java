@@ -9,6 +9,7 @@ public class MyClass {
         System.out.println("hello-4");
         System.out.println("hello-5");
         System.out.println("hello-6");
+        System.out.println("hi");
         System.out.println("Hello-7");
     }
 }
